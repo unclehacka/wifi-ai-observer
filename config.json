@@ -1,0 +1,5 @@
+{
+  "api_key": "YOUR_GEMINI_API_KEY",
+  "interface": "wlan1mon",
+  "duration": 180
+}
